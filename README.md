@@ -1,4 +1,3 @@
-# primecritics
 <h1>Prime Critics</h1>
 <h2>Your #1 Independent Product Reviewer</h2>
 
